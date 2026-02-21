@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+*.egg
+
+# PyInstaller
+build/
+*.spec.bak
+
+# Virtual environment / local packages
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Installer output
+installer/
+*.exe
+
+# IDE
+.vscode/
+.idea/
