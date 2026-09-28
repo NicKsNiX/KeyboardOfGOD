@@ -5,7 +5,7 @@ a = Analysis(
     ['main.py'],
     pathex=[],
     binaries=[],
-    datas=[],
+    datas=[('defaults\\quick_actions.default.json', 'defaults')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},

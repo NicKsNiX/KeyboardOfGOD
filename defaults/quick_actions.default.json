@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "actions": [
+    {
+      "id": "3b6dceb3-182e-4d4c-836d-09eae38fb789",
+      "name": "sadmin",
+      "type": "input_code",
+      "username": "sadmin",
+      "password": "Teaminw"
+    },
+    {
+      "id": "d921f918-a19e-4d81-839d-3a8b65eab4a9",
+      "name": ".8 inw",
+      "type": "share_folder",
+      "value": "X:/"
+    },
+    {
+      "id": "60a4dd05-20fe-42f7-9dc0-133a63dc93ba",
+      "name": ".8 P@ss",
+      "type": "input_code",
+      "username": "Administrator",
+      "password": "P@ss!fa"
+    },
+    {
+      "id": "e2717f92-494d-4051-87fa-789ba35dc0c7",
+      "name": "D M",
+      "type": "windows_tool",
+      "tool_id": "device_manager"
+    },
+    {
+      "id": "e413280b-a626-4584-9dc4-5ecc877b09c8",
+      "name": "Programs and Features / Uninstall Programs",
+      "type": "windows_tool",
+      "tool_id": "uninstall_programs"
+    },
+    {
+      "id": "906e7566-047d-4bd6-a47a-1bea5a92106e",
+      "name": "Date and Time",
+      "type": "windows_tool",
+      "tool_id": "date_and_time"
+    },
+    {
+      "id": "37402fb7-3c87-48f4-ba64-ddd15ae94738",
+      "name": "Task Manager",
+      "type": "windows_tool",
+      "tool_id": "task_manager"
+    },
+    {
+      "id": "bdede50b-9be2-419b-b40a-42ac5e81df50",
+      "name": "Network & Internet",
+      "type": "windows_tool",
+      "tool_id": "network_internet"
+    }
+  ]
+}
